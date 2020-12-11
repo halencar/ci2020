@@ -13,4 +13,4 @@ jobs:
       - name: checkout project
         uses: actions/checkout@v2
       - name: show project files
-      - run: ls -la 
+      - run: ls -la
