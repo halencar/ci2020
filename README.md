@@ -1,6 +1,14 @@
 # Projeto Github Actions
 Esse projeto tem o objetivo de ensinar Continous Integration para nós da turma de Engenharia de Software II da Unijuazeiro.
 
+## Tarefas a serem implementas no CI
+
+- [X] Fazer o checkout do projeto no CI
+- [X] Fazer a configuração do ambiente (versaão do node e instalação das dependencias)
+- [X] Executar os testes
+- [X] Quando enviado para o master, fazer o build do projeto
+- [ ] Disponibilizar o relatorio de combertura de testes e build ao fim do workflow
+- [ ] Quando enviado para o master, fazer a implantação do projeto do projeto
 ## Scripts Disponíveis
 
 Na raiz do projeto você poderá executar:
