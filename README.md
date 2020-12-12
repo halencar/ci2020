@@ -3,12 +3,12 @@ Esse projeto tem o objetivo de ensinar Continous Integration para nós da turma 
 
 ## Tarefas a serem implementas no CI
 
-- [X] Fazer o checkout do projeto no CI
-- [X] Fazer a configuração do ambiente (versaão do node e instalação das dependencias)
-- [X] Executar os testes
-- [X] Quando enviado para o master, fazer o build do projeto
-- [ ] Disponibilizar o relatorio de combertura de testes e build ao fim do workflow
-- [ ] Quando enviado para o master, fazer a implantação do projeto do projeto
+- [x] Fazer o checkout do projeto no CI
+- [x] Fazer a configuração do ambiente (versaão do node e instalação das dependencias)
+- [x] Executar os testes
+- [x] Quando enviado para o master, fazer o build do projeto
+- [x] Disponibilizar o relatorio de combertura de testes e build ao fim do workflow
+- [x] Quando enviado para o master, fazer a implantação do projeto do projeto no [link](http://ci2020-alencaar.surge.sh/)
 ## Scripts Disponíveis
 
 Na raiz do projeto você poderá executar:
